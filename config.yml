@@ -3,3 +3,4 @@ fail-on-severity: 'low'
 deny-licenses:
   - 'GPL-3.0'
   - 'AGPL-1.0-or-later'
+license-check: true
