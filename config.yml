@@ -1,0 +1,5 @@
+fail-on-severity: 'low'
+# This is probably better as an explicit allow list
+deny-licenses:
+  - 'GPL-3.0'
+  - 'AGPL-1.0-or-later'
