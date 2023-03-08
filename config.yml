@@ -1,6 +1,9 @@
 fail-on-severity: 'low'
 # This is probably better as an explicit allow list
+# License IDs: https://spdx.org/licenses/
 deny-licenses:
   - 'GPL-3.0'
   - 'AGPL-1.0-or-later'
+  - 'MIT'
+  - 'Apache-2.0'
 license-check: true
